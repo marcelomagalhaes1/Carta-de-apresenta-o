@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Apresentação</title>
+	<style>
+		
+		body{
+			background-color: black;
+		}
+
+		h1{
+			text-align: center;
+			font-family: Times new roman;
+			font-size: 25pt;
+			color: white;
+			text-shadow: 2px white;
+		}
+		h2{
+			font-family: Times new roman;
+			font-size: 25pt;
+			color: white;
+		}
+		h3{
+			font-family: Arial;
+			font-size: 15pt;
+			color: white;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Olá sou o Marcelo e vou mostrar algumas coisas que gosto, por exemplo comidas prediletas, hobbys favoritos e dentre outras coisas!!</h1>
+	<h2>Vou começar dizendo 3 comidas que prefiro:</h2>
+	<h3>-Lasanha;</h3>
+	<h3>-Arroz com frango;</h3>
+	<h3>-Petit Gateau.</h3>
+	<h2>Agora vou dizer 3 hobbys que faço no meu tempo livre:</h2>
+	<h3>-Jogar bola;</h3>
+	<h3>-Jogar no computador;</h3>
+	<h3>-Treinar Musculção.</h3>
+	<h2>E para finalizar irei dizer 2 livros que gosto de ler:</h2>
+	<h3>-O Hobbit;</h3>
+	<h3>-O Pequeno Príncipe.</h3>
+	<h1>Basicamente esse sou eu S2</h1>
+
+</body>
+</html>
